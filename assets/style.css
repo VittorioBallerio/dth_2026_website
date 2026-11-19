@@ -226,6 +226,10 @@ main img {
   color: var(--light-blue);
   cursor: auto;
   transform: scale(1);
+  #totalCount {
+  align-self: center;
+  margin: 0;
+}
 }
 
 #page_two h2 { color: var(--red); }
